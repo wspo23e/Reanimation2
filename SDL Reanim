@@ -1,0 +1,46 @@
+--//FE HAT MAN REANIMATON FE 2024 REANIMATED BY SDL
+
+
+--//RECOMMENDED HATS: 
+
+--https://www.roblox.com/catalog/4391384843/International-Fedora-Russia
+--https://www.roblox.com/catalog/4154538250/International-Fedora-Chile
+--https://www.roblox.com/catalog/4094878701/International-Fedora-Mexico
+--https://www.roblox.com/catalog/3033910400/International-Fedora-Germany
+
+
+
+
+
+--REANIM REDITED SDL
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wspo23e/FE2/main/BACON"))()
+
+wait(5)
+--AUTODIE SO REANIM DOESNT DESTORY
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wspo23e/AUTODIE/main/autodieFEsdl"))()
+
+
+
+
+wait(3)
+
+
+--AUTO NETLESS LOAD EVERY 5 SEC
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wspo23e/AUTONET/main/autonetlessSDLv1"))()
+
+wait(0.1)
+--AUTO R6 SO NETLESS DOESNT BREAK
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wspo23e/AUTOR6/main/autoR6SDL"))()
+
+wait(0.1)
+--PRESET SCRIPT SO IT RESETS FAST
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wspo23e/FORCERESPAWN/main/PRESETSDLV1"))()
+
+
+
+
+
+
+--PERMA DEATH
+--loadstring(game:HttpGet("https://raw.githubusercontent.com/wspo23e/permadeathSDL/main/PD"))()
+
